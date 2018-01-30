@@ -25,4 +25,6 @@
 
    zip -r [new file name] [directory or file name which is to zip]
 
-   
+7. unzip a file :
+
+   unzip [file_name]
