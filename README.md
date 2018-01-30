@@ -23,6 +23,6 @@
 
 6. Zip a directory or file :
 
-   zip -r __new file name___ ___directory or file name which is to zip___
+   zip -r _new file name_ _directory or file name which is to zip_
 
    
