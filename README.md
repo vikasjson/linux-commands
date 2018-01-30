@@ -20,6 +20,9 @@
 5. install GUI in centos :
 
    yum -y group install "GNOME Desktop" "Graphical Administrative Tools"
-  
+
+6. Zip a directory or file :
+
+   zip -r __new file name___ ___directory or file name which is to zip___
 
    
