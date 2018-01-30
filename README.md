@@ -1,7 +1,7 @@
                                                   # linux-commands
                                         linux commands to perform operations 
 
-1. check internet connecton in centos by below command
+1. check internet connecton in centos by below command :
 
    nmcli d
    
