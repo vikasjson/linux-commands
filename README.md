@@ -3,7 +3,7 @@
 
 1. check internet connecton in centos by below command :
 
-  $ nmcli d
+    nmcli d
    
 2. connect internet in centos :
 
