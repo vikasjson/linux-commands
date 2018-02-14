@@ -37,4 +37,8 @@
     
      recordmydesktop
      
-10.     
+10. install graphics for recordmydesktop :
+    
+    yum install gtk-recordmydesktop
+    
+    
