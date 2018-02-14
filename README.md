@@ -3,7 +3,7 @@
 
 1. check internet connecton in centos by below command :
 
-   nmcli d
+  # nmcli d
    
 2. connect internet in centos :
 
@@ -28,3 +28,13 @@
 7. unzip a file :
 
    unzip [file_name]
+   
+8. install screen recorder in linux :
+   
+   sudo yum install recordmydesktop
+   
+9. start recording :
+    
+     recordmydesktop
+     
+10.     
