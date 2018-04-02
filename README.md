@@ -3,11 +3,11 @@
 
 1. check internet connecton in centos by below command :
 
-    ``` nmcli d ```
+  ``` nmcli d ```
    
 2. connect internet in centos :
 
-  ``` nmtui ```
+  `` nmtui ``
    
 3. get default target which is selected Graphical/Command line :
 
