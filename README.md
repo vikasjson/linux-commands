@@ -7,38 +7,38 @@
    
 2. connect internet in centos :
 
-   nmtui
+  ``` nmtui ```
    
 3. get default target which is selected Graphical/Command line :
 
-   systemctl get-default
+  ``` systemctl get-default ```
    
 4. set default target graphical :
 
-   systemctl set-default graphical.target
+  ``` systemctl set-default graphical.target ```
    
 5. install GUI in centos :
 
-   yum -y group install "GNOME Desktop" "Graphical Administrative Tools"
+  ``` yum -y group install "GNOME Desktop" "Graphical Administrative Tools" ```
 
 6. Zip a directory or file :
 
-   zip -r [new file name] [directory or file name which is to zip]
+  ``` zip -r [new file name] [directory or file name which is to zip] ```
 
 7. unzip a file :
 
-   unzip [file_name]
+  ``` unzip [file_name] ```
    
 8. install screen recorder in linux :
    
-   sudo yum install recordmydesktop
+  ``` sudo yum install recordmydesktop ```
    
 9. start recording :
     
-     recordmydesktop
+    ``` recordmydesktop ```
      
 10. install graphics for recordmydesktop :
     
-    yum install gtk-recordmydesktop
+   ``` yum install gtk-recordmydesktop ```
     
     
