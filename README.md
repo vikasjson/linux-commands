@@ -40,5 +40,9 @@
 10. install graphics for recordmydesktop :
     
    ``` yum install gtk-recordmydesktop ```
+   
+11. Use the usermod command to add the user to the wheel group(Make sudo user).
+
+   ``` usermod -aG wheel username ```
     
     
