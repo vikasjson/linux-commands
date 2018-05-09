@@ -45,4 +45,6 @@
 
    ``` usermod -aG wheel username ```
     
-    
+12. Check Nginx Status.
+
+   ``` nginx -t ```
