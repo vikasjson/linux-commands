@@ -48,3 +48,7 @@
 12. Check Nginx Status.
 
    ``` nginx -t ```
+   
+13. Check Disk Space
+
+    ``` df -h ```
