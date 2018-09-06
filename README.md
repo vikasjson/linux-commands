@@ -52,3 +52,8 @@
 13. Check Disk Space
 
     ``` df -h ```
+    
+14. Un-mount all the devices permanantly 
+   
+   ```sudo nano /etc/fuse.conf // and uncomment the user_allow_other ```
+   
